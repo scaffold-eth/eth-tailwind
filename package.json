@@ -1,0 +1,19 @@
+{
+  "name": "eth-tailwind",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scaffold-eth/eth-tailwind.git"
+  },
+  "author": "Mark Grothe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scaffold-eth/eth-tailwind/issues"
+  },
+  "homepage": "https://github.com/scaffold-eth/eth-tailwind#readme"
+}
